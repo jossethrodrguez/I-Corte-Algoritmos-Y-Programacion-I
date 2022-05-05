@@ -1,0 +1,6 @@
+Practica de Operadores!
+Realice un programa que tome dos numeros y realice las operaciones de Suma, Resta y los imprima en pantalla
+Si el resultado de la resta es un numero negativo que el programa indique que numero es junto con un mensaje
+Si el resultado de la suma es un numero mayor que 40 programa imprima en pantalla Muy grande
+Si el resultado de la suma es un numero menor que 10 programa imprima en pantalla Muy pequeno
+Si el resultado de la suma es el numero 420 que el programa imprima en pantalla el mensaje que quieras
